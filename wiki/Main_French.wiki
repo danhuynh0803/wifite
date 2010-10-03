@@ -1,3 +1,5 @@
+#summary Main page's information, in French
+
 = introduction =
 
 Conçu pour Backtrack4 R1 ou Ubuntu. Uniquement pour Linux, aucun support pour WIndows ou OSX.
