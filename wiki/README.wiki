@@ -1,5 +1,5 @@
 #summary Wifite README
-#labels Featured,Phase-Requirements
+#labels Phase-Requirements
 
 = README =
 
